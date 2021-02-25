@@ -1,4 +1,4 @@
-# Timetable_Scheduling_Genetic_Algorithm
+# Timetable_Scheduling_using_Genetic_Algorithm
 
 - Proposal 
 - Final Project
